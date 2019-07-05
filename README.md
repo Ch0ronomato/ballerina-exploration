@@ -4,4 +4,4 @@
 2. Run ballerina: `ballerina run lb.bal`
 3. Got to `localhost:8080/comment`
 
-You can see the logs alternate in the docker containers rotation (ballerina uses round-robin by default)
+You can see the logs alternate in the docker containers (ballerina uses round-robin by default)
